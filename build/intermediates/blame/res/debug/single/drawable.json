@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/noteselect.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/noteselect.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/houndify_btn_search_listening_state.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/drawable/houndify_btn_search_listening_state.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/calendarday.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/calendarday.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/calselect.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/calselect.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/arrowleft.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/arrowleft.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/mic1.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/mic1.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/month1.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/month1.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/person.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/person.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/settingspage.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/settingspage.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/microphone.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/microphone.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/note1.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/note1.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/settings1.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/settings1.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/days.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/days.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/houndify.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/houndify.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/profilepage2.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/profilepage2.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/addevent.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/addevent.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/addtask.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/addtask.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/bottom.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/bottom.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/todaystasks.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/todaystasks.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/list.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/list.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/month2.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/month2.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/houndify_button.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/drawable/houndify_button.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/header1.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/header1.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/calendar.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/calendar.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/arrowright.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/arrowright.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/template.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/template.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/cal1.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/cal1.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/week1.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/week1.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/guy1.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/guy1.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/notebook.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/notebook.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/mic.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/mic.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/profilepage.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/profilepage.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/less.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/less.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/week.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/week.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/user_profile.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/user_profile.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/week2.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/week2.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/settings.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/settings.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/month.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/month.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/greater.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/greater.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/bookmark50.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/bookmark50.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/houndifybanner.png",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/drawable/houndifybanner.png"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    }
+]
