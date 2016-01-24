@@ -59,7 +59,7 @@ MERGED from [hound.android:phrasespotter:1.4.0] /Users/kevinlee/Developer/hackat
 	android:icon
 		ADDED from /Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from /Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/AndroidManifest.xml:16:9-53
+		ADDED from /Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/AndroidManifest.xml:16:9-47
 activity#com.houndify.sample.Activities.WeekMonthActivity
 ADDED from /Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/AndroidManifest.xml:18:9-26:20
 	android:label

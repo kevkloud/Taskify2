@@ -90,7 +90,7 @@ public final class R {
 		public static final int houndify_search_speak_now = 0x7f070019;
 	}
 	public static final class style {
-		public static final int houndify_Houndify = 0x7f0a0148;
+		public static final int houndify_Houndify = 0x7f0a014a;
 	}
 	public static final class styleable {
 		public static final int[] houndify_SearchPanelView = { 0x7f010110, 0x7f010111, 0x7f010112, 0x7f010113, 0x7f010114, 0x7f010115 };
