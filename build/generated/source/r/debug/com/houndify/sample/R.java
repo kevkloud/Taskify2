@@ -2642,7 +2642,7 @@ containing a value of this type.
         public static final int select_dialog_singlechoice_material=0x7f04003b;
         public static final int support_simple_spinner_dropdown_item=0x7f04003c;
         public static final int testing=0x7f04003d;
-        public static final int week_view_activity=0x7f04003e;
+        public static final int week_month_activity=0x7f04003e;
         public static final int weekly_plan=0x7f04003f;
         public static final int weekly_tasks=0x7f040040;
     }

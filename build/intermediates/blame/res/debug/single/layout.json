@@ -12,6 +12,10 @@
         "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/layout/week_month_activity.xml",
+        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/layout/week_month_activity.xml"
+    },
+    {
         "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/layout/houndify_activity_voice.xml",
         "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/layout/houndify_activity_voice.xml"
     },
@@ -146,10 +150,6 @@
     {
         "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/layout/week_view_activity.xml",
-        "source": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/src/main/res/layout/week_view_activity.xml"
     },
     {
         "merged": "/Users/kevinlee/Developer/hackathon/PennApps2016/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
